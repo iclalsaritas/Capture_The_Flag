@@ -1,4 +1,4 @@
-##### Easy makinelerden olan Bounty Hacker çözümüne klasik port scan ile başlayalım :
+##### Ultra erkkeğimizin kalkıştığı ultra tehlikeli Bounty Hacker çözümüne klasik port scan ile başlayalım :
 
 ![1](https://user-images.githubusercontent.com/97543719/225923763-e6235243-525a-4e4e-be64-88d34c8630e3.PNG)
 
