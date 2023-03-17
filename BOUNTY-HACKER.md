@@ -30,5 +30,39 @@
 
 ###### ls dedikten sonra locks.txt ve task.txt leri gördüm. Bunları kendime alayım ki içinde neler varmış kurcalayabileyim. get locks.txt ve get task.txt işlemlerini uygulayıp ftp den çıkıyorum artık. 
 
+###### Terminalimizde task.txt ve locks.txt yi kurcalayalım bakalım. cat task.txt , cat locks.txt :
+
+![8](https://user-images.githubusercontent.com/97543719/225929360-d0fbbd12-d4f5-4d83-81ce-392cbb4822cb.PNG)
+
+###### Lin tarafından yazılmış görevler ve muhtemelen parolaların yer aldığı bir liste görüyoruz. Bunlar bizim çoook işimize yarayacak. Acaba listedeki hangi parola Lin'e ait? Onu bulursak Lin kullanıcısıyla elimizi kolumuzu sallayarak gireriz. Hydra komutuna hazır olun :
+
+![9](https://user-images.githubusercontent.com/97543719/225929993-cec30a22-8463-49b4-991c-c85928578703.PNG)
+
+###### Komutumuz bize sonucu güzel bir şekilde sundu. Artık oturum açmak için daha fazla beklemeye gerek var mı :
+
+![10](https://user-images.githubusercontent.com/97543719/225930449-d1233e19-550d-4ef1-a7e0-ee50f963feed.PNG)
+
+###### Flag e adım adım yaklaşıyoruz. ls diyelim :
+
+![11](https://user-images.githubusercontent.com/97543719/225930634-9bd378bf-54d3-4ffa-8d9a-b502db48ec66.PNG)
+
+###### THM nin bizden istemiş olduğu user.txt yi okumayı başardık. root.txt yi de bulmamızı istiyordu son olarak. Bunun için root olmamız gerekiyor ve biz henüz Lin olarak varız :
+
+![12](https://user-images.githubusercontent.com/97543719/225931037-59b99b54-900d-41f7-aba5-7d18f4b4d066.PNG)
+
+###### sudo -l komutunu yazıp Lin'in parolasını doğru girdiğim halde bir engelle karşılaşıyorum. O da tar engeli. Bu engeli aşabilmek için tarayıcımda sudo tar privilege escalation araştırması yapıyorum ve tar engelinden beni atlatacak olan komutu buluyorum :
+
+![13](https://user-images.githubusercontent.com/97543719/225931510-8a9bf9c0-9067-488b-bef9-b1d4e7baa6e1.PNG)
+
+###### Komutu uyguluyorum ve parola dahi girmeden beni root olarak atadığına şahit oluyorum. whoami diye test ettiğimde de root olduğumu görüyorum :
+
+![14](https://user-images.githubusercontent.com/97543719/225931853-a074f4ad-7917-4b62-bc83-e64b90b2d2c6.PNG)
+
+###### cd /root kısmına gidip ls dediğimde root.txt ye ulaşmış oldum. Son olarak da cat root.txt diyoruz ve flag karşımızda. Umarım faydalı olmuştur!
+
+
+
+
+
 
 
