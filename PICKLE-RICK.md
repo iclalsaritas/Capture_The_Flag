@@ -10,7 +10,7 @@
 
 ![3](https://user-images.githubusercontent.com/97543719/225946756-1f69bc2b-bcf3-4a83-b884-6f0e37da7ae2.PNG)
 
-##### R1ckRul3s kullanıcı adını bir yere not edelim. Başka bir şey bulamadığımız için çıkalım buradan. GoBuster taramamızı yapalım, dileyenler dirsearch -u "ip" komutunu da kullanabilir elbette :
+##### R1ckRul3s kullanıcı adını bir yere not edelim. Başka bir şey bulamadığımız için çıkalım buradan. GoBuster taramamızı yapalım, dileyenler dirsearch -u "ip" komutunu da kullanabilirler elbette :
 
 ![4](https://user-images.githubusercontent.com/97543719/225947256-a6bce7ca-82b5-4bac-948a-0b58e00be2be.PNG)
 
