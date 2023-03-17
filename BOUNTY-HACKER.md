@@ -58,7 +58,7 @@
 
 ![14](https://user-images.githubusercontent.com/97543719/225931853-a074f4ad-7917-4b62-bc83-e64b90b2d2c6.PNG)
 
-##### cd /root kısmına gidip ls dediğimde root.txt ye ulaşmış oldum. Son olarak da cat root.txt diyoruz ve flag karşımızda. Umarım faydalı olmuştur!
+##### cd /root kısmına gidip ls dediğimde root.txt ye ulaşmış oldum. Son olarak da cat root.txt diyoruz ve flag karşımızda. Dayak yemekten kurtardığımız erkkeğimize tebesüm ediyor ve bir sonraki CTF'e geçiş yapıyoruz. Umarım faydalı olmuştur!
 
 
 
