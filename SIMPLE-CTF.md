@@ -70,6 +70,11 @@
 
 ![18](https://user-images.githubusercontent.com/97543719/226122757-a377f524-0d62-403e-98e7-dd688a61e292.PNG)
 
+##### Denemelere başlıyor :
+
+![101](https://user-images.githubusercontent.com/97543719/226126071-dbce89d0-33f1-40ba-a693-89c55ec2ef44.PNG)
+
+
 
 
 
