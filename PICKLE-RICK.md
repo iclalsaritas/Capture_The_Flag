@@ -22,7 +22,7 @@
 
 ![6](https://user-images.githubusercontent.com/97543719/225947764-9b04f781-d09a-4b24-a51e-473659be8d44.PNG)
 
-##### Bir köşeye not aldığımız R1ckRul3s kullanıcı adını burada kullanacak gibiyiz sanki? Peki parolası ne ola ki? :
+##### Bir köşeye not aldığımız R1ckRul3s kullanıcı adını burada kullanacak gibiyiz sanki? Peki parolası ne ola ki :
 
 ![4](https://user-images.githubusercontent.com/97543719/225948106-a80331ca-d419-4e05-b52e-1ddee2c012cd.PNG)
 
