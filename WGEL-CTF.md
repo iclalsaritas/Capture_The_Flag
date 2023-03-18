@@ -64,7 +64,7 @@
 
 ##### Gördüğünüz gibi yanıt verdi ve aradığımızı bulduk :
 
-![16](https://user-images.githubusercontent.com/97543719/226099155-43db078a-1633-47cd-b6e7-7499d42141bb.PNG)
+![16](https://user-images.githubusercontent.com/97543719/226099395-9744c0cc-7fbd-420b-b008-244076305ed1.jpg)
 
 ##### Kolay makineyi çözdük, eğlendik sanırım. Umarım faydalı olmuştur!
 
