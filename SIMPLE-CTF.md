@@ -10,7 +10,7 @@
 
 ![3](https://user-images.githubusercontent.com/97543719/226121458-a830aa20-7da7-4e17-b25c-31932b2694b9.PNG)
 
-##### /simple çok çekici durmuyor mu. Hemen tarayıcıda deneyelim :
+##### /simple çok çekici durmuyor mu? Hemen tarayıcıda deneyelim :
 
 ![4](https://user-images.githubusercontent.com/97543719/226121500-9ebe7670-e62a-4d30-b307-47ee23617fed.PNG)
 
