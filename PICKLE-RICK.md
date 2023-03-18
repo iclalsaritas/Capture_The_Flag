@@ -66,7 +66,7 @@
 
 ![16](https://user-images.githubusercontent.com/97543719/225951393-0cc5eaf9-ec50-49b0-a8df-5bf53f776bbd.PNG)
 
-##### whoami dedik root olmuşuz harbiden. cd /root dedik, ls -la yaptık ve aradığımız tam olarak karşımızda. cat 3rd.txt dedik ve Rick arkadaşımızın ibretlik hikayesine katkımız son bulmuş oldu. Umarım faydalı olmuştur!
+##### whoami dedik, root olmuşuz harbiden. cd  /root dedik,  ls -la yaptık ve aradığımız tam olarak karşımızda. cat 3rd.txt dedik ve Rick arkadaşımızın ibretlik hikayesine katkımız son bulmuş oldu. Umarım faydalı olmuştur!
 
 
 
