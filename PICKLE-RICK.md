@@ -50,7 +50,7 @@
 
 ![12](https://user-images.githubusercontent.com/97543719/225949960-c1af6e95-2af0-4533-92d8-b9683b73c38d.PNG)
 
-##### Bakınız dinlemem olumlu oldu. Erişimi sağlar sağlamak görselde de gördüğünüz gibi belli komutları çalıştırdım ve THM'nin benden istediklerine ulaştım :
+##### Bakınız dinlemem olumlu oldu. Erişimi sağlar sağlamaz görselde de gördüğünüz gibi belli komutları çalıştırdım ve THM'nin benden istediklerine ulaştım :
 
 ![13](https://user-images.githubusercontent.com/97543719/225950238-50eb4923-eec7-4dea-a651-7d43de01ce87.PNG)
 
