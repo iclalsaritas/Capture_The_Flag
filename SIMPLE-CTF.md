@@ -62,7 +62,7 @@
 
 ![16](https://user-images.githubusercontent.com/97543719/226122641-c778da48-740b-4fd0-9c43-864dde36093e.PNG)
 
-##### Buraya da parantezleri koyduk. Dediğim gibi siz böyle uğraşmayın tek tek. Hem zaman kaybı hem de komik. Artık .py mizi işleme sokabiliriz :
+##### Buraya da parantezleri koyduk. Dediğim gibi siz böyle uğraşmayın tek tek. Hem zaman kaybı hem de komik. Hata ayıklayıcı özellikle de orta ve zor makinelerde çok lazım olacak. Artık .py mizi işleme sokabiliriz :
 
 ![17](https://user-images.githubusercontent.com/97543719/226122716-e97eed85-641b-43f4-9a04-c6d6e47435f0.PNG)
 
