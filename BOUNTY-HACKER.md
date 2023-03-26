@@ -16,7 +16,7 @@
 
 ##### Kaynak kodunda da işimize yarayacak bir koz göremedik. Görünmeyen kısımları görmek istiyoruz. Geleneksel GoBuster taramamızı gerçekleştirelim gobuster dir -u http://ip/ -w /usr/share/dirb/wordlists/common.txt -x php,html,txt :
 
-![5](https://user-images.githubusercontent.com/97543719/225926433-67d04d61-fcfe-4ac7-a307-07369c99d019.PNG)
+![2](https://user-images.githubusercontent.com/97543719/227784215-28dde651-3e33-4d44-aa8a-69ebee0ff2be.PNG)
 
 ##### Taramamızı yaptık lakin buradan bize ekmek çıkacağını sanmıyorum. Muhtemelen /images/ sitede ilk çıkan resimle alakalı o yüzden zaman kaybetmeye gerek yok. Yine de emin olmak isterseniz ip adresinin yanına /images/ ekleyip siteyi tekrar görüntüleyebilirsiniz. Devam edelim :
 
