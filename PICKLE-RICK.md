@@ -1,26 +1,34 @@
 ##### Turşuya dönüşen Rick'in ibretlik hikayesine üzüldükten sonra nmap taramamıza başlıyoruz :
 
-![1](https://user-images.githubusercontent.com/97543719/225946426-e28d55e2-fdca-4e3d-802f-fec7b4ca5102.PNG)
+![1](https://user-images.githubusercontent.com/97543719/227777967-da77e0d5-067a-4b31-a99b-e909305630e3.PNG)
+
+![2](https://user-images.githubusercontent.com/97543719/227777981-7e7f9efa-2f93-429f-8dd3-094209213204.PNG)
+
 
 ##### 80 portunun açık olduğunu görüp de siteye bakmamak olmaz :
 
-![2](https://user-images.githubusercontent.com/97543719/225946609-ba2d86c7-0893-4409-a22d-b1f561ac40c4.PNG)
+![3](https://user-images.githubusercontent.com/97543719/227777997-5cb804f2-a723-43e5-8347-4bc718bac550.PNG)
+
 
 ##### Sayfanın kaynak kodunu inceleyelim, belki bir ipucu ya da açık buluruz :
 
-![3](https://user-images.githubusercontent.com/97543719/225946756-1f69bc2b-bcf3-4a83-b884-6f0e37da7ae2.PNG)
+![4](https://user-images.githubusercontent.com/97543719/227778021-792ec0fb-cde6-4787-b7e8-33adde8cc96f.PNG)
+
 
 ##### R1ckRul3s kullanıcı adını bir yere not edelim. Başka bir şey bulamadığımız için çıkalım buradan. GoBuster taramamızı yapalım, dileyenler dirsearch -u "ip" komutunu da kullanabilirler elbette :
 
-![4](https://user-images.githubusercontent.com/97543719/225947256-a6bce7ca-82b5-4bac-948a-0b58e00be2be.PNG)
+![5](https://user-images.githubusercontent.com/97543719/227778088-f76c23dc-9ba6-4db5-8968-fbadd5da4770.PNG)
+
 
 ##### Dikkatimi çeken /assets/ 'i incelemek istiyorum :
 
-![5](https://user-images.githubusercontent.com/97543719/225947475-d2736ec0-2124-49c2-872a-550e81dac277.PNG)
+![6](https://user-images.githubusercontent.com/97543719/227778105-8018ca40-5cfa-42cb-964d-be2995f9d369.PNG)
+
 
 ##### Beklentimi karşılamadı. Oradaki dosyalardan bize ekmek çıkmaz arkadaşlar lakin emin olmak isterseniz inceleyebilirsiniz ben daha çok ilgimi çeken /login.php/ ile uğraşmak istiyorum :
 
-![6](https://user-images.githubusercontent.com/97543719/225947764-9b04f781-d09a-4b24-a51e-473659be8d44.PNG)
+![5](https://user-images.githubusercontent.com/97543719/227778152-ff82ba29-e1d9-4dab-8c5f-f0a5e4a8e1bb.PNG)
+
 
 ##### Bir köşeye not aldığımız R1ckRul3s kullanıcı adını burada kullanacak gibiyiz sanki? Peki parolası ne ola ki :
 
