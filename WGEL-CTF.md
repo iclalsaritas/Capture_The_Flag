@@ -58,15 +58,15 @@
 
 ##### Birkaç tanesini denedim lakin işimi gören file upload oldu arkadaşlar. Bu yüzden bundan ilerleyeceğim :
 
-![16](https://user-images.githubusercontent.com/97543719/226099070-62fd186f-01f0-4305-ba6a-95a3a5957e02.PNG)
+![12](https://user-images.githubusercontent.com/97543719/227781118-b27827c1-b80a-4640-b9a3-c0abf205352e.PNG)
 
 ##### Dinlememi başlattım 4545 portundan. Diğer taraftan komutlarımı da hazırladım :
 
-![15](https://user-images.githubusercontent.com/97543719/226099128-824aad90-a105-4621-99e1-5b9cae284379.PNG)
+![11](https://user-images.githubusercontent.com/97543719/227781169-32015280-a0f0-44af-b6b4-57f1f6402ea6.PNG)
 
 ##### Gördüğünüz gibi yanıt verdi ve aradığımızı bulduk :
 
-![16](https://user-images.githubusercontent.com/97543719/226099395-9744c0cc-7fbd-420b-b008-244076305ed1.jpg)
+![12](https://user-images.githubusercontent.com/97543719/227781111-092de14d-15b3-4ddc-9e7a-15bbf90fee47.PNG)
 
 ##### Kolay makineyi çözdük, eğlendik sanırım. Umarım faydalı olmuştur!
 
