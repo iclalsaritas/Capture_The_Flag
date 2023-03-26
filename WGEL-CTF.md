@@ -1,30 +1,32 @@
 ##### Kolay makineyi çözüp eğlenmemiz istenmiş, eğlenelim bakalım :
 
-![1](https://user-images.githubusercontent.com/97543719/226040756-17aef43d-4851-480d-b9e0-a9b47cf37ea5.PNG)
+![1](https://user-images.githubusercontent.com/97543719/227779557-d7b97963-6600-4f0b-9a7b-b7164672ac20.PNG)
+
+![2](https://user-images.githubusercontent.com/97543719/227779576-d2aa68a4-b562-4a19-8ab9-019936fe71bd.PNG)
 
 ##### 80 portunun açık olduğunu görürsek dayanamıyorduk :
 
-![2](https://user-images.githubusercontent.com/97543719/226041505-83ecc4e8-8345-4395-be46-ad2c318a04a1.PNG)
+![3](https://user-images.githubusercontent.com/97543719/227779590-849a953e-d007-4f59-b049-06a763f2e2c7.PNG)
 
 ##### Easy makinelerde görmeye alışık olduğumuz bir ubuntu sayfası karşıladı bizi. Kaynak kodunu inceleyelim :
 
-![3](https://user-images.githubusercontent.com/97543719/226042222-4354f995-e959-45db-b9a1-538a624c3a60.PNG)
+![4](https://user-images.githubusercontent.com/97543719/227779640-d6e82dc4-87b3-4039-b8d8-65bf64bbd7a6.PNG)
 
 ##### Buradaki Jessie kişisini kesinlikle not alıyoruz. Başka bir ipucu görmediğimizden çıkıyoruz kaynaktan. GoBuster sevsek de biraz farklılık olsun, dirsearch kullanalım :
 
-![4](https://user-images.githubusercontent.com/97543719/226098396-ca6b92c6-833a-493c-b076-ec3de84908cc.PNG)
+![5](https://user-images.githubusercontent.com/97543719/227779849-5c89aea1-a40c-4e7f-81f8-a047cc6d2c3b.PNG)
 
 ##### /sitemap/ çok çekici durmuyor mu? Hemen tarayıcımıza koşuyoruz :
 
-![5](https://user-images.githubusercontent.com/97543719/226098571-0db32eed-408b-4283-8a14-b3c32ee5ced0.PNG)
+![6](https://user-images.githubusercontent.com/97543719/227779939-af94180c-c213-4365-84e0-ee7014229d24.PNG)
 
 ##### Gayet güzel özennmişler siteye. Tebrik ediyoruz ve sitede biraz geziniyoruz. Kaynak kodda da bir şeyler bulamadık. Görünmeyen tarafları görebilme umuduyla bir search daha yapalım mı :
 
-![6](https://user-images.githubusercontent.com/97543719/226098633-687cac70-134e-4f15-9a67-f7e55d80e55c.PNG)
+![7](https://user-images.githubusercontent.com/97543719/227780206-eb0d893f-759a-419e-9ad9-f875c619333e.PNG)
 
 ##### Gayet güzel bir sonuç döndürdü açıkçası. Burada en dikkat çekici ve kritik olan konusunda hemfikiriz bence. /.ssh/ :
 
-![7](https://user-images.githubusercontent.com/97543719/226098678-0dc00270-2235-4bb4-9319-2705b3188d3d.PNG)
+![8](https://user-images.githubusercontent.com/97543719/227780258-c08d355e-afb5-4aa6-b371-e66f90483045.PNG)
 
 ##### Değerli bir bilgi bulduk arkadaşlar. Burada belki de Jessie kullanıcısının şifresi var ve bu sayede oturum açabileceğiz :
 
