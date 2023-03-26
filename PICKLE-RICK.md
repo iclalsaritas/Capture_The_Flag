@@ -27,7 +27,7 @@
 
 ##### Beklentimi karşılamadı. Oradaki dosyalardan bize ekmek çıkmaz arkadaşlar lakin emin olmak isterseniz inceleyebilirsiniz ben daha çok ilgimi çeken /login.php/ ile uğraşmak istiyorum :
 
-![5](https://user-images.githubusercontent.com/97543719/227778152-ff82ba29-e1d9-4dab-8c5f-f0a5e4a8e1bb.PNG)
+![Uploading 8..PNG…]()
 
 
 ##### Bir köşeye not aldığımız R1ckRul3s kullanıcı adını burada kullanacak gibiyiz sanki? Peki parolası ne ola ki :
@@ -36,7 +36,8 @@
 
 ##### Burada sessiz sakin duran bir o kadar da dikkatimi çeken /robots.txt/ 'yi de görüntülemek istiyorum vee :
 
-![7](https://user-images.githubusercontent.com/97543719/225948356-e95c183c-c1cb-4946-a799-9c4ab8f2c963.PNG)
+![7](https://user-images.githubusercontent.com/97543719/227778234-4064a3f4-9d0f-4e82-b2ed-09b576bc28dd.PNG)
+
 
 ##### Bu bir parola olabilir mi diye kafada kurmalara başlıyoruz ve yanılmıyoruz :
 
