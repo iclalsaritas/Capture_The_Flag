@@ -44,11 +44,11 @@
 
 ##### Flag e adım adım yaklaşıyoruz. ls diyelim :
 
-![11](https://user-images.githubusercontent.com/97543719/225930634-9bd378bf-54d3-4ffa-8d9a-b502db48ec66.PNG)
+![3](https://user-images.githubusercontent.com/97543719/227784658-43dc7dd6-999d-4964-887a-4e16ab412f3c.PNG)
 
 ##### THM nin bizden istemiş olduğu user.txt yi okumayı başardık. root.txt yi de bulmamızı istiyordu son olarak. Bunun için root olmamız gerekiyor ve biz henüz Lin olarak varız :
 
-![12](https://user-images.githubusercontent.com/97543719/225931037-59b99b54-900d-41f7-aba5-7d18f4b4d066.PNG)
+![4](https://user-images.githubusercontent.com/97543719/227784708-0cecda67-306e-4639-b623-3f77863873e7.PNG)
 
 ##### sudo -l komutunu yazıp Lin'in parolasını doğru girdiğim halde bir engelle karşılaşıyorum. O da tar engeli. Bu engeli aşabilmek için tarayıcımda sudo tar privilege escalation araştırması yapıyorum ve tar engelinden beni atlatacak olan komutu buluyorum :
 
