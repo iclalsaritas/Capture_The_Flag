@@ -36,11 +36,11 @@
 
 ##### Lin tarafından yazılmış görevler ve muhtemelen parolaların yer aldığı bir liste görüyoruz. Bunlar bizim çoook işimize yarayacak. Acaba listedeki hangi parola Lin'e ait? Onu bulursak Lin kullanıcısıyla elimizi kolumuzu sallayarak gireriz. Hydra komutuna hazır olun :
 
-![9](https://user-images.githubusercontent.com/97543719/225929993-cec30a22-8463-49b4-991c-c85928578703.PNG)
+![1](https://user-images.githubusercontent.com/97543719/227784476-1f2804b9-3c71-451d-b60c-318888117ff7.PNG)
 
 ##### Komutumuz bize sonucu güzel bir şekilde sundu. Artık oturum açmak için daha fazla beklemeye gerek var mı :
 
-![10](https://user-images.githubusercontent.com/97543719/225930449-d1233e19-550d-4ef1-a7e0-ee50f963feed.PNG)
+![2](https://user-images.githubusercontent.com/97543719/227784515-987af5ad-3b92-4e1c-9e88-b17fc369bc6f.PNG)
 
 ##### Flag e adım adım yaklaşıyoruz. ls diyelim :
 
