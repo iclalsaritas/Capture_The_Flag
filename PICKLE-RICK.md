@@ -32,7 +32,8 @@
 
 ##### Bir köşeye not aldığımız R1ckRul3s kullanıcı adını burada kullanacak gibiyiz sanki? Peki parolası ne ola ki :
 
-![4](https://user-images.githubusercontent.com/97543719/225948106-a80331ca-d419-4e05-b52e-1ddee2c012cd.PNG)
+![5](https://user-images.githubusercontent.com/97543719/227778791-3b22d436-e063-4d82-897d-1814f5b7462b.PNG)
+
 
 ##### Burada sessiz sakin duran bir o kadar da dikkatimi çeken /robots.txt/ 'yi de görüntülemek istiyorum vee :
 
@@ -61,7 +62,8 @@
 
 ##### Bakınız dinlemem olumlu oldu. Erişimi sağlar sağlamaz görselde de gördüğünüz gibi belli komutları çalıştırdım ve THM'nin benden istediklerine ulaştım :
 
-![13](https://user-images.githubusercontent.com/97543719/225950238-50eb4923-eec7-4dea-a651-7d43de01ce87.PNG)
+![9](https://user-images.githubusercontent.com/97543719/227778845-70365010-780d-44ff-a744-32db5ac86c31.PNG)
+
 
 ##### Belli bir alanda sıkıştığımı ve bilgi açısından yetersiz olduğumu gördüm. Daha ileri gitmek ve daha fazla bilgiye ulaşmak için cd /home yaptım, ardından ls -la dedim ve :
 
