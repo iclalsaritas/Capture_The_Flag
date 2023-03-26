@@ -24,7 +24,7 @@
 
 ##### En başlarda bir yere not edelim dediğim ftp yi kullanalım. ftp "ip" komutunu uygulayalım, Anonymous ile girişe izin verdiğinden onu yazdığımız zaman ftp ile işlem yapar hale geleceğiz :
 
-![7](https://user-images.githubusercontent.com/97543719/225927450-df0ef326-d973-4e94-b031-696dbd6973b5.PNG)
+![5](https://user-images.githubusercontent.com/97543719/227784107-2b6d1d9b-3025-47f4-98b7-ac2c6cbee951.PNG)
 
 ##### Arkadaşlar bir de burada bence ne olur ne olmaz ftp ye girince passive komutunu yazın ki passive mode kapansın yoksa işlemlerinizi gerçekleştiremezsiniz. Bu dediğim sıkıntı herkeste olmaz lakin geneli bu problemle karşılaşır ve ftp iznim yok galiba diye düşünüp işlemine son verir aklınızda bulunsun. 
 
