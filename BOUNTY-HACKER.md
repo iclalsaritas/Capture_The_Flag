@@ -32,7 +32,7 @@
 
 ##### Terminalimizde task.txt ve locks.txt yi kurcalayalım bakalım. cat task.txt , cat locks.txt :
 
-![8](https://user-images.githubusercontent.com/97543719/225929360-d0fbbd12-d4f5-4d83-81ce-392cbb4822cb.PNG)
+![1](https://user-images.githubusercontent.com/97543719/227784288-e6ae2d40-9ea5-4dd5-a656-ca194738cff7.PNG)
 
 ##### Lin tarafından yazılmış görevler ve muhtemelen parolaların yer aldığı bir liste görüyoruz. Bunlar bizim çoook işimize yarayacak. Acaba listedeki hangi parola Lin'e ait? Onu bulursak Lin kullanıcısıyla elimizi kolumuzu sallayarak gireriz. Hydra komutuna hazır olun :
 
