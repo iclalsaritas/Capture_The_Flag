@@ -32,9 +32,9 @@
 
 ![8](https://user-images.githubusercontent.com/97543719/226098717-924f7297-0b7f-45bc-af5f-4d288b3f4df9.PNG)
 
-##### Bu anahtarı txt olarak kaydedin. ben root içinde rsa.txt diye kaydettim. Bunu kullanarak çılgın şeyler yapabiliriz, bunun öncesinde hevesimizi kursağımızda bırakmasın diye chmod 600 rsa.txt ayarını da yapalım ki anahtarı kullanmamızı engelleyemesin :
+##### Bu anahtarı txt olarak kaydedin. ben home/auctor içinde rsa.txt diye kaydettim. Bunu kullanarak çılgın şeyler yapabiliriz, bunun öncesinde hevesimizi kursağımızda bırakmasın diye chmod 600 rsa.txt ayarını da yapalım ki anahtarı kullanmamızı engelleyemesin :
 
-![9](https://user-images.githubusercontent.com/97543719/226098792-2b5137cd-360b-4807-a7d9-46cc86d6af9a.PNG)
+![9](https://user-images.githubusercontent.com/97543719/227780431-9e6e6542-97f8-429e-b5a0-3c77742fe134.PNG)
 
 ##### Artık hazırız sanki ve başlayalım :
 
