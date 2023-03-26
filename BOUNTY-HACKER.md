@@ -1,18 +1,18 @@
 ##### Ultra erkkeğimizin kalkıştığı ultra tehlikeli Bounty Hacker çözümüne klasik port scan ile başlayalım :
 
-![1](https://user-images.githubusercontent.com/97543719/225923763-e6235243-525a-4e4e-be64-88d34c8630e3.PNG)
+![1](https://user-images.githubusercontent.com/97543719/227783705-cc889df3-0520-47a9-b5bf-b41936ab6c69.PNG)
 
 ##### Detaylı bir tarama yaptı, devamı da şu şekilde :
 
-![2](https://user-images.githubusercontent.com/97543719/225924129-beb6be27-53b6-4aab-a280-0ad7d1142f21.PNG)
+![2](https://user-images.githubusercontent.com/97543719/227783723-3ec0f212-4f24-4428-a07a-58fdd99fa616.PNG)
 
 ##### Burada dikkatinizi çektiyse ssh açık ve ftp Anonymous ile giriş yapmama izin veriyor. Bu ikisi üzerinden ilerleyelim ve nmap -sS -sV -sC -Pn -O "ip" ile de detaylı bir tarama sonucuna ulaşabilirsiniz aklınızda bulunsun. ssh ve ftp bilgilerini bir köşeye not ettikten sonra, bir başka klasiğimiz olan siteyi gezinme olayını gerçekleştirelim :
 
-![3](https://user-images.githubusercontent.com/97543719/225925415-a4b4ff18-d362-4f1f-94a3-5c89b8cb9cf1.PNG)
+![3](https://user-images.githubusercontent.com/97543719/227783741-109bebc2-8237-4119-bba6-74f37ab1551a.PNG)
 
 ##### Burada tatmin edici bir şey bulamadık, sayfanın kaynak koduna da bir bakalım :
 
-![4](https://user-images.githubusercontent.com/97543719/225925735-e8c3a59f-a691-4e3d-9575-3688782876ab.PNG)
+![4](https://user-images.githubusercontent.com/97543719/227783757-217e7b9c-6bb6-456e-a018-0dc2181c5fc1.PNG)
 
 ##### Kaynak kodunda da işimize yarayacak bir koz göremedik. Görünmeyen kısımları görmek istiyoruz. Geleneksel GoBuster taramamızı gerçekleştirelim gobuster dir -u http://ip/ -w /usr/share/dirb/wordlists/common.txt -x php,html,txt :
 
