@@ -38,7 +38,7 @@
 
 ##### Artık hazırız sanki ve başlayalım :
 
-![10](https://user-images.githubusercontent.com/97543719/226098808-f94dfd11-f1f4-4841-ad29-7b3f63ff7a50.PNG)
+![10](https://user-images.githubusercontent.com/97543719/227780508-7014a8a1-870c-43b5-8a56-2511217c827a.PNG)
 
 ##### Başarılı şekilde oturum açmış bulunuyoruz. Biraz gezinme zamanı :
 
