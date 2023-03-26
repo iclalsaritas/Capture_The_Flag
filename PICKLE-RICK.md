@@ -27,7 +27,7 @@
 
 ##### Beklentimi karşılamadı. Oradaki dosyalardan bize ekmek çıkmaz arkadaşlar lakin emin olmak isterseniz inceleyebilirsiniz ben daha çok ilgimi çeken /login.php/ ile uğraşmak istiyorum :
 
-![Uploading 8..PNG…]()
+![8](https://user-images.githubusercontent.com/97543719/227778352-ce2d1774-1206-4f49-995c-bc078076d689.PNG)
 
 
 ##### Bir köşeye not aldığımız R1ckRul3s kullanıcı adını burada kullanacak gibiyiz sanki? Peki parolası ne ola ki :
