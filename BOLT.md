@@ -27,6 +27,17 @@
 
 ![9](https://user-images.githubusercontent.com/97543719/229153452-30989674-ee18-4192-8eaf-d50f608cae67.PNG)
 
+##### Dashboard çevresinde ufak bir gezinme sonucu versiyon bilgisine ulaştım. Bolt CMS 3.7.1'in exploitini aramaya başladım :
+
+![10](https://user-images.githubusercontent.com/97543719/229154561-eed9f286-0200-456d-863c-f6fe38103156.PNG)
+
+##### 3.7.1 için hazırlanmış bir repoya ulaştım. Internette 3.7.0 için kaynaklar vardı daha çok bu yüzden bu repo oldukça işime yaradı. Leafpad'e bolt.py olarak kaydettim. Kodu biraz incelemiştim. Kodda bahsettiği talimatları uyguladım. Python ile çalıştırmamı, py dosyası belirtmemi ve adresi yazıp kullanıcı adı - parola yazmamı istiyordu :
+
+![11](https://user-images.githubusercontent.com/97543719/229155256-20de7034-f103-426d-a688-53e70b7017d6.PNG)
+
+
+
+
 
 
 
