@@ -35,7 +35,13 @@
 
 ![11](https://user-images.githubusercontent.com/97543719/229155256-20de7034-f103-426d-a688-53e70b7017d6.PNG)
 
+##### whoami yazdığımda yetki yükseltmeye gerek kalmadan root olduğumu söyledi. Bu arada Dashboardda gezindiğinizde dosya yükleme kısmını görmüşsünüzdür. jpg gibi formatlarda yükleme yapabileceğimizi söylüyordu. O taraftan da bir şeyler deneyebilirdik ama daha kolayını aramak istedim çünkü yükleme izinleri sınırlıydı. Neyse, shell almak için 1 yaz dedi. 1 yazıp ip adresimi ve portu girdim :
 
+![12](https://user-images.githubusercontent.com/97543719/229158312-50e9bb6a-9dff-4ee8-aeb2-2771965a6077.PNG)
+
+##### Bunu ilk başta yapmak faydalıdır. Çünkü kendi içinde dinleme yapıp benim dinleme yapmama engel olabilir. O yüzden ilk başta bunu bir çalıştırmak faydalıdır. Şimdi 3311'den dinlememi başlatmak istiyorum :
+
+![13](https://user-images.githubusercontent.com/97543719/229158750-082243d4-c1a2-463f-b05a-953935866202.PNG)
 
 
 
