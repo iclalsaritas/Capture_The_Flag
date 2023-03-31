@@ -17,7 +17,21 @@
 
 ![5](https://user-images.githubusercontent.com/97543719/229150504-41028e9d-0e09-44f6-bfd0-47669fe11482.PNG)
 
-##### 
+##### Kullanıcı adı Bolt şifre ise boltadmin123, bunları değerlendirebilmek için login sayfasına ihtiyacımız var. Ufak bir bolt cms login araştırması yaptım ve /bolt yazdığımda login sayfasına erişebileceğim sonucuna vardım :
+
+![7](https://user-images.githubusercontent.com/97543719/229152039-cc0f157d-b5b3-4ca4-9954-0f912080d706.PNG)
+
+##### Sayfaya kullanıcı bilgilerini girdim :
+
+![8](https://user-images.githubusercontent.com/97543719/229152759-6ead0e58-a2ac-4c88-b9a4-dc2f2ca84e14.PNG)
+
+![9](https://user-images.githubusercontent.com/97543719/229153452-30989674-ee18-4192-8eaf-d50f608cae67.PNG)
+
+
+
+
+
+
 
 
 
