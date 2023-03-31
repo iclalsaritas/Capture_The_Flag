@@ -43,7 +43,15 @@
 
 ![13](https://user-images.githubusercontent.com/97543719/229158750-082243d4-c1a2-463f-b05a-953935866202.PNG)
 
+##### Bu arada msfconsole sorusunu da cevaplayalım arada kaynamasın :
 
+![14](https://user-images.githubusercontent.com/97543719/229159391-6ad7d4aa-1421-4cc4-81a6-e426225ab345.PNG)
+
+##### Şimdi dinlememize devam edebiliriz :
+
+![15](https://user-images.githubusercontent.com/97543719/229159553-2a97980a-01ea-4f33-9971-07c7239e3bc5.PNG)
+
+##### Umarım faydalı olmuştur!
 
 
 
