@@ -39,7 +39,7 @@
 
 ![12](https://user-images.githubusercontent.com/97543719/229158312-50e9bb6a-9dff-4ee8-aeb2-2771965a6077.PNG)
 
-##### Bunu ilk başta yapmak faydalıdır. Çünkü kendi içinde dinleme yapıp benim dinleme yapmama engel olabilir. O yüzden ilk başta bunu bir çalıştırmak faydalıdır. Şimdi 3311'den dinlememi başlatmak istiyorum :
+##### Bunu ilk başta yapmak faydalıdır. Çünkü uygulama kendi içinde dinleme yapıp benim dinleme yapmama engel olabilir. O yüzden ilk başta bunu bir çalıştırmak faydalıdır. Şimdi 3311'den dinlememi başlatmak istiyorum :
 
 ![13](https://user-images.githubusercontent.com/97543719/229158750-082243d4-c1a2-463f-b05a-953935866202.PNG)
 
