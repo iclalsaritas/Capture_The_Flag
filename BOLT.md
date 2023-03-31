@@ -51,7 +51,7 @@
 
 ![15](https://user-images.githubusercontent.com/97543719/229159553-2a97980a-01ea-4f33-9971-07c7239e3bc5.PNG)
 
-##### Umarım faydalı olmuştur!
+##### Penny'den sonra Bolt çok değişti... Umarım faydalı olmuştur!
 
 
 
