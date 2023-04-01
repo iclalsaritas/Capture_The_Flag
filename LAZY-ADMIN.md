@@ -47,3 +47,9 @@
 ##### SweetRice'ın kendi git hesabında faydalı şeyler bulmadık değil. /as denemek istiyorum :
 
 ![15](https://user-images.githubusercontent.com/97543719/229280602-5b783858-9072-4e84-b2c7-54944bf0ffbb.PNG)
+
+##### Kullanıcı adı manager ve parola Password123. Her gördüğümüz Admin Admin değilmiş, dosyadaki Manager adını da denemekte fayda varmış :)
+
+##### Dashboard ekranında gözümüze sokarcasına bir versiyon bilgisi görüyoruz :
+
+![16](https://user-images.githubusercontent.com/97543719/229280751-02bfa20e-011a-4b90-8eac-81a99a065f27.PNG)
