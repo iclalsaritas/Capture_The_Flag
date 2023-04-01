@@ -29,3 +29,21 @@
 ![9](https://user-images.githubusercontent.com/97543719/229280240-ebf1aa83-bbad-4d84-ad17-86f54d21721b.PNG)
 
 ![10](https://user-images.githubusercontent.com/97543719/229280366-1356fcba-6ab3-4ae5-8229-31a87b8f58f8.PNG)
+
+##### Formatını öğrenmek için ufak bir araştırma yapıyorum :
+
+![11](https://user-images.githubusercontent.com/97543719/229280408-9cccef99-431a-4315-ae5b-13461268ee2b.PNG)
+
+##### Internetten MD5 çeviriciye koşuyorum :
+
+![12](https://user-images.githubusercontent.com/97543719/229280448-09cd269d-3d05-4a04-8f4e-937d9689c177.PNG)
+
+##### Admin paneline ulaşabilir olmamız lazım :
+
+![13](https://user-images.githubusercontent.com/97543719/229280502-db12d9f8-58d5-4ea1-b63b-fea17d88a4c6.PNG)
+
+![14](https://user-images.githubusercontent.com/97543719/229280594-86ba5f99-cda2-4127-8796-1f43543791bc.PNG)
+
+##### SweetRice'ın kendi git hesabında faydalı şeyler bulmadık değil. /as denemek istiyorum :
+
+![15](https://user-images.githubusercontent.com/97543719/229280602-5b783858-9072-4e84-b2c7-54944bf0ffbb.PNG)
