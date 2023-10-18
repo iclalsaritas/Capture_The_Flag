@@ -1,1 +1,1 @@
-##### Herkese merhaba. Bu repoda TryHackMe üzerindeki popüler ve ücretsiz olan CTF çözümlerini bulabilirsiniz. Oldukça dinamik bir repo olacaktır. Güncellemeleri takip edebilirsiniz. Heciklemeniz bol olsun .d
+#### Herkese merhaba. Bu repoda TryHackMe üzerindeki popüler ve ücretsiz olan CTF çözümlerini bulabilirsiniz. Heciklemeniz bol olsun .d
